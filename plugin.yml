@@ -1,0 +1,8 @@
+name: MultiPort
+main: AndreasHGK\MultiPort\Main
+version: 1.0.0
+api: 3.8.0
+load: STARTUP
+author: AndreasHGK
+description: Open multiple ports for your server
+website: http://hgk.me/
